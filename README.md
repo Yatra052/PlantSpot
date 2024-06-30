@@ -29,43 +29,62 @@ Screenshots:
 
 
 
-
-
-![WhatsApp Image 2024-07-01 at 12 05 53 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/3787ba66-7e8f-49e7-ab84-248501b77114)
-
+![WhatsApp Image 2024-07-01 at 12 05 47 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/73f1d0a5-313a-4a6e-962d-a8c112505b5e)
 
 
 
-![WhatsApp Image 2024-07-01 at 12 05 52 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/5b892955-442b-4bfa-8259-dc9e7130396b)
+![WhatsApp Image 2024-07-01 at 12 05 47 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/d69b0bee-2665-4040-a407-c5ca5fbef842)
 
 
-
-
-![WhatsApp Image 2024-07-01 at 12 05 52 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/571c2fcd-0616-4f1e-b2d3-11b683346ffd)
-
-
-
-
-![WhatsApp Image 2024-07-01 at 12 05 51 AM (2)](https://github.com/Yatra052/PlantSpot/assets/108984857/26946b4a-58cf-4cbd-99b9-980ec4d1fc65)
-
-
-
-![WhatsApp Image 2024-07-01 at 12 05 47 AM ![WhatsApp Image 2024-07-01 at 12 05 47 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/3f3faaca-f43b-40ef-af32-5bc1a27a6f19)
-(1)](https://github.com/Yatra052/PlantSpot/assets/108984857/f8c19f1b-3f81-493d-8008-2e8e4e8fc739)
-
-
-
-![WhatsApp Image 2024-07-01 at 12 05 51 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/501e3c20-5cfe-4936-98db-ed70143d51d1)
-
-
-
-
-![WhatsApp Image 2024-07-01 at 12 05 51 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/4c0df1e0-25f3-488f-8fba-056308cf2d10)
+![WhatsApp Image 2024-07-01 at 12 05 48 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/ff3ea16b-ab8b-48a4-8efb-8c4872749c02)
 
 
 
 
 
+
+
+![WhatsApp Image 2024-07-01 at 12 05 48 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/81943e3f-8f43-40fe-896a-7aa3ba0acf2d)
+
+
+
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 48 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/658d02c5-cd84-4d7a-ad66-eb1fc7ab3a98)
+
+![WhatsApp Image 2024-07-01 at 12 05 48 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/a2ce1018-8389-4a87-bcae-862506e9e77a)
+
+
+![WhatsApp Image 2024-07-01 at 12 05 50 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/9d49ea24-dd81-413b-9214-9b24723cc404)
+
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 50 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/9908d64f-0b27-4ede-94b5-e6799168501d)
+
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 51 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/12646823-b1c2-412c-bc7a-2c5c22b0b7b1)
+
+
+![WhatsApp Image 2024-07-01 at 12 05 51 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/f32691bd-0801-4b81-9831-0d15ab844b96)
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 51 AM (2)](https://github.com/Yatra052/PlantSpot/assets/108984857/da97abeb-0dcd-4bc2-87b5-73b18fea90c5)
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 52 AM](https://github.com/Yatra052/PlantSpot/assets/108984857/32a775dd-c679-4235-bbe9-8d170a144c3f)
+
+
+
+![WhatsApp Image 2024-07-01 at 12 05 52 AM (1)](https://github.com/Yatra052/PlantSpot/assets/108984857/442fe43c-fa73-44ea-a09f-664fe490acb3)
+
+
+![WhatsApp Image 2024-07-01 at 12 05 52 AM (2)](https://github.com/Yatra052/PlantSpot/assets/108984857/151181ba-43e0-40ad-bb91-2a9ebe1704c8)
 
 
 Getting Started
