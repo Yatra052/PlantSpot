@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "151026536558",
+    "firebase_url": "https://plantspott-101f2-default-rtdb.firebaseio.com",
+    "project_id": "plantspott-101f2",
+    "storage_bucket": "plantspott-101f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151026536558:android:737fa51fe6365ff73ad67f",
+        "android_client_info": {
+          "package_name": "com.example.plantspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUg0UH9vTGb8ze4m8TTUWqQ9zFBdxVqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151026536558:android:5690106af83dcedc3ad67f",
+        "android_client_info": {
+          "package_name": "com.example.plantspotadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUg0UH9vTGb8ze4m8TTUWqQ9zFBdxVqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
